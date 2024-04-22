@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Erick Miyagi</h1>
-<h3 align="center">Desenvolvedor Backend Java</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erick3232&label=Profile%20views&color=0e75b6&style=flat" alt="erick3232" /> </p>
 
 - 🔭 I’m currently working on **Java Application**
 
-- 🌱 I’m currently learning **Ecosystem Java**
+- 🌱 I’m currently learning **Ecosystem Java and Design Patterns & SOLID**
 
 - 👯 I’m looking to collaborate on **Spring Boot**
 
