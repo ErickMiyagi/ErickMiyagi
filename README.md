@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erick3232&label=Profile%20views&color=0e75b6&style=flat" alt="erick3232" /> </p>
 
-- 🔭 I’m currently working on **Java Application**
+- 🔭 I’m currently working on **Java and Algortihms**
 
 - 🌱 I’m currently learning **Ecosystem Java and Design Patterns & SOLID**
-
-- 👯 I’m looking to collaborate on **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Erick3232](https://github.com/Erick3232)
 
