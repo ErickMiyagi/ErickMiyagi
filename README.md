@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ecosystem Java and Design Patterns & SOLID**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Erick3232](https://github.com/Erick3232)
+- 👨‍💻 All of my projects are available at [https://github.com/Erick3232](https://github.com/ErickMiyagi)
 
 - 💬 Ask me about **Java**
 
